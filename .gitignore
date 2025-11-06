@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+.venv/
+
+# --- TensorFlow / Models ---
+*.h5
+*.keras
+*.ckpt
+*.zip
+*.npz
+*.npy
+
+# --- CSV / Data Files ---
+*.csv
+
+# --- Node / React ---
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Logs & Cache ---
+*.log
+*.tmp
+.cache/
+__pycache__/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
